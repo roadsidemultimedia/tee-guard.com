@@ -1,0 +1,15 @@
+html {
+	overflow: auto;
+}
+
+#logo {
+	position:absolute;
+}
+
+#menu {
+	position:absolute;
+}
+
+#flash {
+	position:absolute;
+}

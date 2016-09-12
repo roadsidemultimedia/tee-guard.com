@@ -1,0 +1,132 @@
+	/* hide from ie on mac \*/
+	html {
+		height: 100%;
+		font:8pt Tahoma;
+	}
+	
+	#flashcontent {
+		height: 100%;
+		text-align:center;
+		
+	}
+	
+	#topMenu{
+		margin-left:-8px;
+		text-align:center;
+		position:relative;
+		padding-top:65px;
+		width:712px;
+		height:56px;
+		font-size:7pt;
+	}
+	
+	#contentWrap {
+		position:inherit;
+		width:700px;
+		margin:200px auto;
+		padding-bottom:0;
+			}
+	#contentHead {
+		width:711px;
+		height:50px;
+		padding:0;
+		margin:0;
+		}
+		
+	#bottom {margin-top:0px;}
+	#text {margin-top:-420px;} /*Edit Height of Text Portal Here (1/3)*/
+	#middle {width:711px; height:420px; margin-top:15px;} /*Edit Height of Text Portal Here (2/3)*/
+	
+	#contentFooter {
+		width:711px;
+		height:37px;
+		padding:0;
+		margin:0;
+		}
+	#content {
+		padding:0 0 10px 0;
+		margin:0;
+		width:711px;
+		height:420px; /*Edit Height of Text Portal Here (3/3)*/
+		overflow:hidden;
+		}
+
+	#content p {
+		margin:0;
+		padding:15px 30px 0 30px;
+		}
+	#content  h1 {
+		margin:0;
+		padding:10px 30px 0 30px;
+		font:13pt Arial, sans-serif;
+		font-weight:bold;
+		color:#555;
+		}
+	#content h3 {
+		margin:0;
+		padding:15px 30px 0 30px;
+		font:12pt Arial, sans-serif;
+		font-weight:bold;
+		color:#fff;
+		}
+	#content ul {
+		text-align:center;
+		width:630px;
+		}
+	#content li {
+		font:7pt Tahoma, Arial, sans-serif;
+		display:inline;
+		list-style-type:none;
+		background:url('images/pipe3.gif') no-repeat right;
+		margin-left:-9px;
+		margin-right:14px;
+		padding-right:8px;
+		}
+	#content ul li.first-child {
+		font-weight:bold;
+		text-decoration:underline;
+	}
+	#copyright {
+		padding-bottom:30px;
+		text-align:center;
+		margin-top:-150px;
+		}
+	#copyright li {
+		display:inline;
+		list-style-type:none;
+		margin-left:-9px;
+		margin-right:14px;
+		padding-right:8px;
+		}	
+	.bottom-nav {		
+		background:url('images/pipe3.gif') no-repeat right;
+		}
+	#flashfooter{
+		height: 31px;
+		width:100%;
+		position:fixed;
+		bottom:0;
+		text-align:center;
+	}
+	/* end hide */
+
+	body {
+		color: #fff; /*Edit Text Color Here*/
+		height: 100%;
+		margin: 0;
+		padding: 0;
+		background:#7AA01A; /*Edit Background Color Here*/
+	}
+
+	a {
+		color: #fff; /*Edit Link Color Here*/
+		text-decoration:none;
+	}
+
+	a:hover {
+		color: #fff; /*Edit Link Hover Color Here*/
+		text-decoration:underline;
+	}	
+	
+	img {border:none;}
+	#enter a:hover {text-decoration:none;}

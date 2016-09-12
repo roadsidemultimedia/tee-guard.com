@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1"?>	
+<!-- Client Info-->
+<clientName>Tee Guard</clientName>
+<address1>7420 204th. St. NE, Ste 102, #255</address1>
+<address2>Arlington, WA 98223</address2>
+<phone>425.387.5679</phone>
+<fax></fax>
+<email>info@teeguard.com</email>
+<officeHours></officeHours>
+
+<copyright>
+	<![CDATA[Copyright 2006, Mr. Client, all rights reserved]]>
+</copyright>
+<!-- General Colors-->
+<headingColor>0x663366</headingColor>
+<bodyColor>0xffffff</bodyColor>
+<linkColor>0xFF0000</linkColor>
+<activeLinkColor>0xffffff</activeLinkColor>
+
+<!--Footer Colors -->
+<footerTextColor>0x003300</footerTextColor>
+<footerBtnBorder>0x003300</footerBtnBorder>
+<footerBtnBgColor>0xA4BE89</footerBtnBgColor>
+<footerBtnBgAlpha>100</footerBtnBgAlpha>
+<footerBtnBorderAlpha>100</footerBtnBorderAlpha>
+<footerGradient1>0x466810</footerGradient1>
+<footerGradient2>0xA7C29B</footerGradient2><!--A solid color if gradient1's alpha = 0 -->
+<footerGradient1Alpha>100</footerGradient1Alpha>
+<footerGradient2Alpha>100</footerGradient2Alpha>
+<xmlFooterColor>true</xmlFooterColor><!--XML defined colors for the footer? -->
+<xmlColor>true</xmlColor> <!--GLOBAL XML defined colors for everything in the site-->
+
+<!--  Music Settings -->
+<musicEnabled>false</musicEnabled>
+<musicPath>media/music1.swf</musicPath> <!--  set this to the path and include the extension, either .swf or .mp3  -->
+<musicSwf>false</musicSwf> <!--  sets flash to load music from a swf  -->
+<musicMp3>false</musicMp3> <!--  sets flash to load music from an mp3-->

@@ -1,0 +1,21 @@
+html, body{
+	overflow:auto; 
+	}
+
+#flashfooter{
+		position:absolute;
+		
+	}
+	
+#content li {margin-left:-7px;
+		margin-right:16px;
+		padding-right:6px;
+		}
+		
+#copyright li {margin-left:-7px;
+		margin-right:16px;}
+
+#middle {margin-top:-10px;}
+#bottom {margin-top:9px;}
+#contentFooter {margin-top:-29px;}
+ul {margin-bottom:-5px;} 
